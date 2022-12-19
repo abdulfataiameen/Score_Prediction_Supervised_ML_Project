@@ -1,2 +1,2 @@
-# Grip_Foundation_task2
+# Score Prediction_Grip_Foundation
 The grip graduate rotational internship tasks
